@@ -4,6 +4,7 @@
 - Machine Learning
 - IR Sensor
 - LiDar
+- Micro Controller
 # Authors
 - Nahid Hasan Ashik
 - Rayed Alamin

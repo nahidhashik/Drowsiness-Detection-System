@@ -5,7 +5,7 @@
 - IR Sensor
 - LiDar
 - Micro Controller
-# Authors
+# Co-Authors
 - Nahid Hasan Ashik
 - Rayed Alamin
 - Sayem Hossain
